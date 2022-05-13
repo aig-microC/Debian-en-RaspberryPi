@@ -1,4 +1,4 @@
-# Debian en Raspberry Pi
+# Instalar Debian nativo en Raspberry Pi
 
 ## Guía o Tutorial para instalar Debian en una Raspberry pi 4 o 400
 
