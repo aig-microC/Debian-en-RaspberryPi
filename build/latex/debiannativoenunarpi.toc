@@ -1,6 +1,0 @@
-\babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Procedimiento para instalar \sphinxstyleemphasis {Debian} «nativo» en una \sphinxstyleemphasis {Raspberry Pi}}{3}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Conexión a Internet}{5}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Conexión a la tarjeta \sphinxstyleemphasis {Raspberry Pi} sin monitor}{5}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}Configuración del sistema operativo}{7}{subsection.1.1.3}%
