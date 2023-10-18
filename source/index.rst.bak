@@ -1,0 +1,30 @@
+.. DebNatiRPi documentation master file, created by
+   sphinx-quickstart on Wed Apr 27 10:42:27 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Instalación de *DEBIAN* nativo en una *Raspberry Pi 4* o *400*
+==============================================================
+
+En este documento puedes ver como instalar el *Sistema Operativo Debian* en una `Raspberry pi 4 o 400`_. Esta tarjeta, que es un ordenador completo, tiene su propio sistema operativo oficial: *Raspberry Pi OS (de 32 o 64-bits)* que se puede obtener de https://www.raspberrypi.com/software/operating-systems/ y que es un derivado de *Debian* *estable*, optimizado para esta tarjeta. Yo prefiero trabajar con un sitema *Debian* nativo y en su versión *testing*.
+
+.. _`Raspberry pi 4 o 400`: https://www.raspberrypi.com/
+
+A continuación te muestro el procedimiento para realizar una instalación de *Debian* en una tarjeta *microSD* ya sea para la versión *estable* o la *testing*.
+
+.. figure:: imágenes/CC.png
+   :scale: 25 %
+   :align: left
+
+Este documento está bajo  `Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional`_. Todas las marcas comerciales referidas en este documento pertenecen a sus legítimos propietarios.
+
+..  _`Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional`: https://creativecommons.org/licenses/by-sa/4.0/
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contenido:
+   
+   DebianNativoRPi.rst
+
+
