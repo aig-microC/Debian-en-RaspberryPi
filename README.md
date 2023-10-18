@@ -21,7 +21,7 @@ _make html_
 
 para generar la version *html* o
 
-_make pdflatex_
+_make latexpdf_
 
 para la versión en *PDF*
 
